@@ -1,5 +1,9 @@
-import { PageCanvas } from "@/components/page/PageCanvas"
+import { ChatEditor } from "@/components/editor/ChatEditor"
 
 export function HomePage() {
-  return <PageCanvas title="Home" />
+  return (
+    <div className="home-page">
+      <ChatEditor />
+    </div>
+  )
 }
