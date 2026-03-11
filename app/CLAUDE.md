@@ -19,12 +19,15 @@ Single-user application. Do not over-engineer for enterprise scale or multi-tena
 
 ## Directory Structure
 
-code
+.workspace/code/app
+
+app
 ├── server
 ├── client
 │   └── src
 │       ├── assets
 │       ├── components
+│       │   ├── editor
 │       │   ├── page
 │       │   └── ui
 │       ├── lib

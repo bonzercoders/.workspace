@@ -27,6 +27,7 @@ app
 │   └── src
 │       ├── assets
 │       ├── components
+│       │   ├── editor
 │       │   ├── page
 │       │   └── ui
 │       ├── lib
