@@ -409,7 +409,7 @@
   border: 1px solid #191d20;
   border-radius: 14px;
   background: #0e1011;
-  padding: 24px;
+  padding: 24px 24px 4px;
   overflow: auto;
 }
 
